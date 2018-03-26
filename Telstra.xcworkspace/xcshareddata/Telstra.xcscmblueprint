@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "97D7E811B978032DC4BFF35DEC25993D7B6C35FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F736F6898640589AA104D0423FAA5AA3E73ECE7" : 9223372036854775807,
+    "97D7E811B978032DC4BFF35DEC25993D7B6C35FE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10C8101D-AB97-4FB9-B138-DD3EBE53E013",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F736F6898640589AA104D0423FAA5AA3E73ECE7" : "Telstra\/Telstra.xcodeproj\/",
+    "97D7E811B978032DC4BFF35DEC25993D7B6C35FE" : "Telstra\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Telstra",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Telstra.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/anupamrao7777\/Telstra_Assignment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F736F6898640589AA104D0423FAA5AA3E73ECE7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/anupamrao7777\/telstra-assignment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "97D7E811B978032DC4BFF35DEC25993D7B6C35FE"
+    }
+  ]
+}
